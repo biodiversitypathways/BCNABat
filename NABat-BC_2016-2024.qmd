@@ -912,11 +912,11 @@ More broadly, as threats to bat populations continue to grow, it may be worth ex
 
 ## Challenges and Lessons Learned
 
-#### Transition from Wildlife Conservation Society of Canada to Biodiversity Pathways
+#### **Transition from Wildlife Conservation Society of Canada to Biodiversity Pathways**
 
 For the past eight years, WCSC has led monitoring efforts and data analysis. This year, these responsibilities transitioned to BioPaths, requiring updates and modifications to existing code systems. Notably, auto-identification software was updated to the latest versions of Kaleidoscope and Sonobat. This change does not seem to have impacted the overall estimates, but caution must be taken when coming to any conclusions of species activity increasing specifically in 2024.
 
-#### Timing of Data Retrieval and Submission
+#### **Timing of Data Retrieval and Submission**
 
 Field crews across British Columbia continue to reliably collect recordings for their grid cells. However, organizing and submitting these recordings, along with associated metadata, remains a challenge. Delays in data submission from grid leaders extend processing and analysis times, making it difficult to complete reports by the end of the fiscal year. The transition in project management this year further complicated data submission. We anticipate these challenges will be resolved in future years as teams adjust to the new process. To improve efficiency, we plan to increase reminders to grid leaders and provide additional support to address ongoing challenges in data organization and submission.
 
