@@ -5,7 +5,7 @@ resources:
   - logos/
 format:
   html:
-  self-contained: true
+    self-contained: true
     grid:
       margin-width: 300px
     title-block-banner: "#1d4566"
